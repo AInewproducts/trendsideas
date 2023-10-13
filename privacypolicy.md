@@ -26,6 +26,10 @@
 
 第三方隐私政策：[https://www.umeng.com/page/policy](https://www.umeng.com/page/policy)
 
+权限：INTERNET
+
+用途：允许应用程序联网和发送统计数据的权限，以便提供统计分析服务。
+
 **三、我们如何共享、转让和公开披露您的个人信息**
 
 1.未获得您的明确同意,我们不会向任何第三方共享您的个人信息。
